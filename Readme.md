@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [CallbackPanelPartial.cshtml](./CS/Views/Home/CallbackPanelPartial.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [View1Partial.cshtml](./CS/Views/Home/View1Partial.cshtml)
+* [View2Partial.cshtml](./CS/Views/Home/View2Partial.cshtml)
+* [View3Partial.cshtml](./CS/Views/Home/View3Partial.cshtml)
+* [View4Partial.cshtml](./CS/Views/Home/View4Partial.cshtml)
+* **[_rootLayout.cshtml](./CS/Views/Shared/_rootLayout.cshtml)**
+* [ContentLeftPartialView.cshtml](./CS/Views/Shared/ContentLeftPartialView.cshtml)
+<!-- default file list end -->
 # Navigation - Implementing callback-based navigation in the Template Gallery-based project
 
 
