@@ -12,6 +12,9 @@
 * [ContentLeftPartialView.cshtml](./CS/Views/Shared/ContentLeftPartialView.cshtml)
 <!-- default file list end -->
 # Navigation - Implementing callback-based navigation in the Template Gallery-based project
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t357692)**
+<!-- run online end -->
 
 
 <strong>Problem:</strong><br>
