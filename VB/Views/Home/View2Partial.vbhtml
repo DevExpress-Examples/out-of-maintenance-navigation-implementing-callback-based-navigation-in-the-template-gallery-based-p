@@ -1,1 +1,0 @@
-<h3>View2 - Loaded via ajax callback</h3>
