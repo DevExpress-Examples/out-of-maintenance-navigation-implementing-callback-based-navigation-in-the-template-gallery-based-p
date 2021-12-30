@@ -1,15 +1,20 @@
+<!-- default badges list -->
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128552987/15.2.7%2B)
+[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T357692)
+[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
-* [HomeController.cs](./CS/DXWebApp/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebAppVB/Controllers/HomeController.vb))
-* [CallbackPanelPartial.cshtml](./CS/DXWebApp/Views/Home/CallbackPanelPartial.cshtml)
-* [Index.cshtml](./CS/DXWebApp/Views/Home/Index.cshtml)
-* [View1Partial.cshtml](./CS/DXWebApp/Views/Home/View1Partial.cshtml)
-* [View2Partial.cshtml](./CS/DXWebApp/Views/Home/View2Partial.cshtml)
-* [View3Partial.cshtml](./CS/DXWebApp/Views/Home/View3Partial.cshtml)
-* [View4Partial.cshtml](./CS/DXWebApp/Views/Home/View4Partial.cshtml)
-* **[_rootLayout.cshtml](./CS/DXWebApp/Views/Shared/_rootLayout.cshtml)**
-* [ContentLeftPartialView.cshtml](./CS/DXWebApp/Views/Shared/ContentLeftPartialView.cshtml)
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [CallbackPanelPartial.cshtml](./CS/Views/Home/CallbackPanelPartial.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [View1Partial.cshtml](./CS/Views/Home/View1Partial.cshtml)
+* [View2Partial.cshtml](./CS/Views/Home/View2Partial.cshtml)
+* [View3Partial.cshtml](./CS/Views/Home/View3Partial.cshtml)
+* [View4Partial.cshtml](./CS/Views/Home/View4Partial.cshtml)
+* **[_rootLayout.cshtml](./CS/Views/Shared/_rootLayout.cshtml)**
+* [ContentLeftPartialView.cshtml](./CS/Views/Shared/ContentLeftPartialView.cshtml)
 <!-- default file list end -->
 # Navigation - Implementing callback-based navigation in the Template Gallery-based project
 <!-- run online -->
